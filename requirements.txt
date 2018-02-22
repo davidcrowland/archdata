@@ -1,10 +1,9 @@
-json
 numpy 
 math
 psycopg2
 pandas
-datetime 
-tqdm 
+datetime
+tqdm
 matplotlib
 seaborn
 pycircstat
