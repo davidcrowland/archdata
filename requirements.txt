@@ -1,0 +1,11 @@
+json
+numpy 
+math
+psycopg2
+pandas
+datetime 
+tqdm 
+matplotlib
+seaborn
+pycircstat
+scipy
