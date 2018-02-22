@@ -1,0 +1,24 @@
+{
+  "script_folder" : "N:/horsto/klusta_pipeline/",
+  "plotting" : "False",
+  "tetrodes" : "1,2,3,4",
+  "min_spikes": 100,
+
+  "box_size_cm" : "100",
+  "speed_cutoff": "5",
+
+  "loop_n" : "200",
+  "divider_n" : "15",
+
+  "bin_size" : "2",
+  "sigma_rate": "2",
+  "sigma_time": "2",
+
+  "autocorr_overlap" : ".2",
+
+  "window_stimulus" : "200",
+  "skipped_sessions": "objec,objc",
+
+  "theta_range": [4,15]
+
+}

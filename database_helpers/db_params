@@ -1,0 +1,5 @@
+[postgresql]
+host=129.241.173.184
+#host=10.212.25.47
+database=data_1
+user=hotte
