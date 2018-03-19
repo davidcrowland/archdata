@@ -8,3 +8,4 @@ seaborn
 pycircstat
 scipy
 pydrive
+nose
