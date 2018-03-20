@@ -4,6 +4,4 @@ This is a repository for loading and analyzing our data. You can find the notebo
 .. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/davidcrowland/archdata/master
 
 
-Datasets for reproducing the key figures are available as .pkl files 
-here: https://drive.google.com/open?id=18NjZMUROyGlt_HxeGDh-ROvzX1dUrGJS
-and here: https://drive.google.com/open?id=1VCDXjyK_tefxNTWo8U3f9AKHFVsxDc9b
+Use the "Extended dataset" and "Tagged cells" notebooks either on GitHub or through Binder. These notebooks load in the .pkl files located here on GitHub and reproduced the main results of the paper. If you open the data through Binder, you should be able to run the code through a web browser (tested on Google Chrome). Clicking through on the link for either notebook will take you to an executable Jupyter notebook. If you are not familiar with Jupyter Notebooks, click "kernel" and then "restart and run all". This will execute the whole notebook. The notebook includes key plots and statistics used in our study. You can edit the code and replot however you want, as long as the required functions are available on the pre-loaded packages (most of the essentials are there: pandas, numpy, matplotlib, seaborn pycircstat, etc.) 
