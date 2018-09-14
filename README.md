@@ -3,9 +3,6 @@ This is a repository for loading and analyzing the data presented in our paper "
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/davidcrowland/archdata/master)
 
-.. image:: https://mybinder.org/badge.svg 
-
-:target: https://mybinder.org/v2/gh/davidcrowland/archdata/master
 
 
 Use "tagged cells" to reproduce figure 3 and "extended dataset" to reproduce figure 4. You can access the notebooks either on GitHub or through Binder. These notebooks load in the .pkl files located here on GitHub. 
